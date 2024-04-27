@@ -1,7 +1,7 @@
                                           
-                                                                          👋 Hi, I’m Mahesh Kakarla from India
+                                                     👋 Hi, I’m Mahesh Kakarla from India
 
-                                                                          looking for backend developer position
+                                                     looking for backend developer position
                                  
 
 - 👀 I’m interested in Web Development
